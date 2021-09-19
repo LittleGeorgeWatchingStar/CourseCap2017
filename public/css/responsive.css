@@ -1,0 +1,100 @@
+@media screen and (max-width:1300px){ 
+	.banner{height: 760px;}  
+}
+@media  (min-width: 768px) and (max-width: 992px) {
+	.navbar-default.home-navbar {margin-top: 15px;}
+	.navbar-default {padding:0 30px;}
+	.navbar-default .nav {margin-top: 10px;}
+	.banner-heading h1{font-size: 35px;}
+	.banner-heading h3 {font-size: 20px;}
+	footer {padding: 35px 0 15px;}
+	.paymeticons {margin: 25px 0 0;}
+	.navbar-form  {width: 52%;}  
+	.question-list li {font-size: 14px;}
+	.red_box {font-size: 14px; padding: 15px 10px;}
+	.btn { font-size: 14px; padding: 7px 20px;}
+	.sidebar { padding: 20px;}
+	.sidebar h4 { margin-bottom: 15px;}
+	.question_detail_box .post_content h2 {	margin: 5px 0 10px;}
+	.heading-question { font-size:16px;}
+	.new-que ul li { font-size: 14px;}
+	.new-que p { font-size: 14px; }
+	.box h1{ font-size:25px; margin-bottom: 15px;}
+	.topup_amount { min-width: 90px; font-size: 20px;}
+	.hightlight_popular { min-width: 90px; font-size: 12px; top: -26px;}
+	.topup_amount_box h3 { margin:0 0 35px 0; }
+	.post_content { min-width: 350px;}
+	.all-subject .custom-check { width: 50%; }
+	.withdrawl .modal-body { padding: 0 50px 50px;}
+	.common-box.box.p-30  { padding: 20px !important; }
+}
+
+@media (max-width: 767px){
+	.navbar-default {padding: 0 15px;}
+	.student_profile .user_pic .profile_pic {width: 50px; height: 50px;}
+	.student_profile .user_pic .profile_pic img {width: 50px; height: 50px;}
+	.post_content h2 {margin: 5px 0 10px;}
+	.red_box {font-size: 14px; padding: 15px 10px;}
+	.navbar-brand > img {width: 200px;}
+	.banner h1 {font-size: 25px; margin-top:50px;}
+	.banner h3 {font-size: 18px;}
+	.banner-heading {margin-bottom: 40px;}
+	.banner .panel-body .btn-action .btn {padding: 10px; display: block; width: 100%;}
+	.banner .panel-footer .col-sm-4 {margin-bottom: 10px;}
+	.banner .panel-footer .col-sm-4 br {display: none;}
+	footer {padding: 50px 0 15px;}
+	footer h5 {font-size: 16px;}
+	.navbar-default.home-navbar {position: absolute; width: 100%; top:0; margin-top: 5px;}
+	.navbar-default.home-navbar .navbar-toggle {margin-top:3px;}
+	.navbar-default.home-navbar .navbar-collapse {background-color: #FFF;}
+	.navbar-default.home-navbar .navbar-collapse li a {color: #333;}
+	.navbar-default.home-navbar .navbar-collapse li a.tutor-link {border: none;}
+	.navbar-default.home-navbar .navbar-collapse li a.tutor-link:hover {border: none; color: #333;}
+	.user_pic {width: 30px;}
+	.profile_pic {width: 30px; height: 30px;}
+	.profile_pic img {width: 30px; height: 30px;}
+	.post_status span {padding: 0;	display: block;	width: 100%; margin-bottom: 5px;}
+	.lock_ans_box .lock_box button {line-height: 35px; font-size: 11px; height: 39px; width: 140px;}
+	.post-question .box {padding: 30px;}
+	.ask-btn {margin-top:10px;}
+	.box h1 {font-size: 24px;}
+	.topup_content.p-50 { padding: 30px; }
+	.topup_content h2 { font-size: 24px; }
+	.topup_amount { min-width: 63px; font-size: 15px; margin-bottom: 30px; height: 35px}
+	.hightlight_popular { min-width: 62px; font-size: 8px; top: -26px;}
+	.topup_amount_box h3 { margin-bottom: 10px; }
+	.topup_amount_box { margin-top: 15px; }
+	.sharelink { margin-bottom: 15px; }
+	.banner .panel .panel-body { padding: 30px 15px; }
+	.login_modal { top:30px; }
+	.login_modal .modal-dialog { width: auto; }
+	.modal::before { display: block; height: auto; }
+	.login_modal .modal-content .modal-body { padding: 20px;}
+	.banner-caption { margin-top:30px; }
+	.banner-caption h1 { font-size: 38px;}
+	.p-50 { padding: 30px; }
+	.common-box { padding: 15px 20px; }
+	.post_content h2 { font-size: 13px; }
+	.custom-nav .navbar-header{float: left; width: 195px;}
+	.custom-nav .navbar-brand > img { width: 170px; }
+	.custom-nav .navbar-right { float: right; }
+	.custom-nav .navbar-right li { width: 50px; display: inline-block; position: inherit; vertical-align: top; }
+	.custom-nav .navbar-right li  a { display: block; }
+	.custom-nav .navbar-right li  .dropdown-menu { left: 0; right: 0; position: absolute; background-color: #FFF }
+	.custom-nav .navbar-right li  .dropdown-menu li { display: block; width: 100%; position: relative; }
+	.finish-time .btn { font-size: 14px; padding:7px 12px;}
+	.chat-footer { padding: 15px; }
+	.chat-btnbox { padding-left: 0px; }
+	.navbar-collapse { border: none; }
+	.nav-red-transperant .navbar-brand { padding: 15px 15px;}
+	.nav-blue-transperant .navbar-brand { padding: 15px 15px;}
+	.all-subject .custom-check { width: 100%; margin-bottom: 5px; }
+	.box { margin-bottom: 15px; }
+	.upload-table td img { width: 40px; }
+	.social_post .btn { padding: 7px 14px; font-size: 14px; }
+	.chk-btn { margin-bottom: 10px;}
+	.reviewmodal .modal-body { padding: 30px 15px;}
+	.chk-btn input[type="checkbox"] + label { font-size: 12px; padding: 5px 10px; }
+	.reviewmodal .close { right: 12px;}
+	.review-buttons { margin-bottom: 30px; }
+}
